@@ -8,6 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
+    "eslint": "eslint './**/*.{js,jsx}'",
     "start-prod": "node app.js"
   },
   "dependencies": {
